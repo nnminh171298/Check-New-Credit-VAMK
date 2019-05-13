@@ -15,7 +15,6 @@ geckodriver | 0.17.0
 [pi@raspberrypi:~]$ sudo apt-get install python3-pip
 [pi@raspberrypi:~]$ sudo apt-get install firefox-esr
 [pi@raspberrypi:~]$ sudo apt-get install xvfb
-[pi@raspberrypi:~]$ sudo apt-get install firefox-esr
 [pi@raspberrypi:~]$ pip3 install pyvirtualdisplay selenium
 ```
 After those installations, note down your firefox and selenium versions. Depending on the versions, you might want to choose a different version of geckodriver. See [Geckodriver supported platforms](https://firefox-source-docs.mozilla.org/testing/geckodriver/geckodriver/Support.html)  
